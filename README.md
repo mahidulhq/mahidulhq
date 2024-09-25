@@ -8,7 +8,7 @@
 
 - 📓 programmed on **HTML, CSS** 
 
-- 🎨 designed **Web apps, SaaS apps, Mobile app, SW UI**
+- 🎨 designed **Web apps, SaaS web apps, Mobile apps, SW UI**
 
 - 📫 reach me at **mahikysr@proton.me**
 
