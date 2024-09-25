@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahidul</h1>
-<h3 align="center">A passionate CSE student and UX/Ui dev</h3>
+<h3 align="center">A passionate CSE student and UX/UI dev</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/348324/screenshots/14583031/media/9a6df27386e61c41a06a84c94cf5ff37.gif">
 
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=mahidulhq&color=brightgreen&style=flat-square)" alt="mahidulhq" /> </p>
