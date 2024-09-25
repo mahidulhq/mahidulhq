@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahidul</h1>
 <h3 align="center">A passionate CSE student and UX/Ui dev</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/348324/screenshots/14583031/media/9a6df27386e61c41a06a84c94cf5ff37.gif">
 
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=mahidulhq&color=brightgreen&style=flat-square)" alt="mahidulhq" /> </p>
 
@@ -16,7 +16,9 @@
 
 <h3 align="left">Connect/Portfolio:</h3>
 <p align="left">
-<a href="https://www.behance.net/mahidulhq" target="blank"><img align="center" src="https://icons8.com/icon/13655/behance" alt="@mahidulhq" height="30" width="40" /></a>
+<a href="https://www.behance.net/mahidulhq" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="@mahidulhq" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/mahidulhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutika wagalekar" height="30" width="40" /></a>
 </p>
 
