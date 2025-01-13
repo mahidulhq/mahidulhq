@@ -1,6 +1,6 @@
 
 <h1 align="center">hiii owl! i'm mahidul aka kysr</h1>
-<h3 align="center">nothing rn but a CSE student and UX/UI designer </h3>
+<h3 align="center">nothing rn but a CS student and UX/UI designer </h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/348324/screenshots/14583031/media/9a6df27386e61c41a06a84c94cf5ff37.gif">
 
 
