@@ -1,6 +1,6 @@
 
 <h1 align="center">hiii owl! i'm mahidul aka kysr</h1>
-<h3 align="center">nothing rn but a CS student and UX/UI designer </h3>
+<h3 align="center">a CS student and UX/UI designer </h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/348324/screenshots/14583031/media/9a6df27386e61c41a06a84c94cf5ff37.gif">
 
 
@@ -32,8 +32,4 @@
 </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/>
 </a>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahidulhq&show_icons=true&locale=en" alt="mahidulhq" /></p>
 
