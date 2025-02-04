@@ -31,5 +31,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+</a> <a href="https://webflow.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webflow/webflow-original.svg" alt="webflow" width="40" height="40"/>
 </a>
 
