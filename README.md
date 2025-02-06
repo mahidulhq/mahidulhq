@@ -1,6 +1,6 @@
-<h1 align="center">Hi There, I'm Mahidul Haque 👋</h1>
+<h2 align="center">Hi, I'm Mahidul Haque 👋</h2>
 
-<h3 align="center">a jr. UX/UI Designer from 🇧🇩 </h3>
+<h4 align="center">a jr. UX/UI Designer from 🇧🇩 </h4>
 <br/>
 
  <div id="badges">
