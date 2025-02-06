@@ -1,12 +1,7 @@
 <h1 align="center">Hi There, I'm Mahidul Haque 👋</h1>
 
-<h3 align="center">A jr. UX/UI Designer from 🇧🇩 </h3>
+<h3 align="center">a jr. UX/UI Designer from 🇧🇩 </h3>
 <br/>
-<div align="center">
-
-![Mahidul](gitartwork.svg)
-
-</div>
 
  <div id="badges">
    <a href="https://www.linkedin.com/in/mahidulhq/">
