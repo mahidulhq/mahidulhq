@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Mahidul Haque 👋</h3>
 
-<p align="center"><tt>junior ux/ui designer and c0D3r</tt></p>
+<p align="center"><tt>Junior UX/UI Designer, Focused on UED | Programmer | Learning Cybersecurity & Development</tt></p>
 <br/>
 
  <div id="badges">
