@@ -6,7 +6,7 @@
     > masterd UI designs and UX research<br>
     > programmer- road to 1.5k rating and solving 1k problems at CC<br>
     > active CTF player at HTB, THM, picoCTF<br>
-    > known languages html, css, c, c++, python ,bash<br>
+    > known languages HTML, CSS, C, C++, Python ,Bash<br>
     > certified by Cisco, Google, Linux Foundation, Grameenphone, Codecademy <br>
     > interests- privacy & security, open-source, technology exploration/ testing/ debugging, design systems<br>
     > open for collab: 
