@@ -2,7 +2,7 @@
   <p>
     > CS student <br>
     > active learner in the CyberSecurity field<br>
-    > sys/net administrator, penetration tester, security consultant<br>
+    > penetration tester, security consultant<br>
     > masterd UI designs and UX research<br>
     > programmer- road to 1.5k rating and solving 1k problems at CC<br>
     > active CTF player at HTB, THM, picoCTF<br>
