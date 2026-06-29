@@ -2,14 +2,14 @@
   <p>
     > CS student <br>
     > active learner in the CyberSecurity field<br>
-    > penetration tester, security consultant<br>
+    > penetration tester, security consultant, IT support<br>
     > masterd UI designs and UX research<br>
-    > programmer- road to 1.5k rating and solving 1k problems at CC<br>
+    > hate writing code
     > active CTF player at HTB, [0x8] THM, picoCTF<br>
-    > known languages HTML, CSS, C, C++, Python ,Bash<br>
-    > certified by Cisco, Google, Linux Foundation, Grameenphone, Codecademy <br>
-    > interests- privacy & security, open-source, technology exploration/ testing/ debugging, design systems<br>
-    > open for collab: 
+    > known languages HTML, CSS, C, C++, Python, Bash, Java<br>
+    > certified by the Government of Bangladesh, Cisco, Google, Linux Foundation, Grameenphone, Robi Axiata, Codeacademy, DataCamp, Asian Development Bank, Meta Brains, Ostad<br>
+    > interests- privacy & security, open-source, technology exploration/ testing/ debugging, technical IT support sw/hw, design systems<br>
+    > open for collaboration: 
     <a href="mahikysr@gmail.com">mahikysr@gmail.com</a>
   </p>
 </div>
