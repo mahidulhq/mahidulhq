@@ -4,7 +4,7 @@
     > active learner in CyberSecurity<br>
     > penetration tester, security consultant, IT support<br>
     > masterd UI designs and UX research<br>
-    > hate writing code
+    > hate writing code<br>
     > active CTF player at HTB, THM [0x8], picoCTF<br>
     > known languages HTML, CSS, C, C++, Python, Bash, Java<br>
     > certified by the Government of Bangladesh, Cisco, Google, Linux Foundation, Grameenphone, Robi Axiata, Codeacademy, DataCamp, Asian Development Bank, Meta Brains, Ostad<br>
