@@ -5,8 +5,8 @@
     > penetration tester, security consultant, IT support<br>
     > masterd UI designs and UX research<br>
     > hate writing code<br>
-    > active CTF player at HTB, THM [0x8], picoCTF<br>
-    > known languages HTML, CSS, C, C++, Python, Bash, Java<br>
+    > active CTF player at HTB, THM [0x9], picoCTF<br>
+    > known languages HTML, CSS, C, C++, Python, Bash, Java, MySQL<br>
     > certified by the Government of Bangladesh, Cisco, Google, Linux Foundation, Grameenphone, Robi Axiata, Codeacademy, DataCamp, Asian Development Bank, Meta Brains, Ostad<br>
     > interests- privacy & security, open-source, technology exploration/ testing/ debugging, technical IT support on sw/hw, design<br>
     > open for collaboration: 
